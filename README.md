@@ -25,7 +25,8 @@ Este é um editor de arquivos com interface gráfica desenvolvido em **Python** 
 
 ## 📷 Captura de Tela
 
-> *[Adicione aqui uma imagem do programa em execução, se quiser]*
+
+<img width="1906" height="986" alt="2025-07-23_22-44-47" src="https://github.com/user-attachments/assets/003f8d9f-441a-4c36-84f5-fd984691ee76" />
 
 ## ⚙️ Requisitos
 
